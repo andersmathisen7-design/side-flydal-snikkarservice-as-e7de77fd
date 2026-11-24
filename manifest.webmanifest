@@ -1,0 +1,25 @@
+{
+  "name": "Flydal Snikkarservice AS",
+  "short_name": "Flydal",
+  "description": "Snekker i Ålesund for små og store jobber: nybygg, tilbygg, renovering, garasjer og kjøkkenmontering. Ingen jobb er for liten.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9a4420",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

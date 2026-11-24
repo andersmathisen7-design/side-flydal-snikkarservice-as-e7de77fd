@@ -1,0 +1,15 @@
+# Flydal Snikkarservice AS
+
+- Bransje: Snekkerarbeid
+- Sted: Ålesund
+- E-post: post@snikkarservice.no
+- Telefon: 984 39 358
+
+## Tjenester
+
+- Nybygg og tilbygg: Vi har bred erfaring med å reise nybygg og tilbygg, og tar også på oss garasjeprosjekter.
+- Renovering: Vi skifter dører, vinduer, kledning og tak, og pusser opp hus, leiligheter og bygårder.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
